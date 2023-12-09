@@ -20,3 +20,9 @@ let package = Package(
         ),
     ]
 )
+
+print("""
+⚠️ WARNING: This package is deprecated and will no longer receive updates. 
+Please consider using the recommended alternative package. 
+For more information, visit: https://yourpackage.com/deprecation
+""")
